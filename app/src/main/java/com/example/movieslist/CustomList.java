@@ -11,4 +11,21 @@ public class CustomList {
         mMovieName = MovieN;
         mMovieRating = movieR;
     }
+
+    public int getmImgId()
+    {
+        return mImgId;
+    }
+    public String getmMovieName()
+    {
+        return mMovieName;
+    }
+    public String getmMovieRating()
+    {
+        return mMovieRating;
+    }
+    public String getmMovieDescription()
+    {
+        return mMovieDescription;
+    }
 }
